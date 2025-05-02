@@ -1,2 +1,5 @@
 *.ospx
 tests.xml
+oscript_modules/
+build/
+out/
